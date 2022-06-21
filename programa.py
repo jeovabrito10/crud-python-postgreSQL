@@ -10,7 +10,7 @@ def conectar():
             database='pmvn',
             host='localhost',
             user='postgres',
-            password='j&ov@123',
+            password='xxxxx',
         )
         return conn
     except psycopg2.Error as e:
